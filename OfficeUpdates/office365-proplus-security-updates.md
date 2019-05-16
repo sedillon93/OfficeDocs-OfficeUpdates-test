@@ -23,9 +23,10 @@ These release notes provide information about security fixes that are included i
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 
-[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
-## May 14, 2019
+
+[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
+## May 13, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
 
 ### Word
