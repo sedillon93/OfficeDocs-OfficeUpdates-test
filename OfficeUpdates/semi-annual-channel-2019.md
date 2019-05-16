@@ -1,3 +1,17 @@
+---
+title: "Release notes for Semi-Annual Channel releases in 2019"
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 1/29/2019
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: "Provides IT Pros with release notes for Semi-Annual Channel releases for Office 365 ProPlus in 2019"
+---
+
 # Release notes for Semi-Annual Channel releases in 2019
 
 These release notes provide information about new features, security updates, and non-security updates that are included in Semi-Annual Channel updates to Office 365 ProPlus in 2019. 
@@ -9,68 +23,6 @@ These release notes provide information about new features, security updates, an
 
 > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).
-> - OneNote 2016 will not be included by default when a user on the Semi-Annual Channel downloads and installs Office 365 on Windows 10 from the Office Portal.
-
-## Version 1808: February 12
-*Version 1808 (Build 10730.20280)*
-
-### Access: Non-Security updates 
-
-- This update adds support for new Japanese eras to Access.
-
-### Outlook: Non-Security updates 
-
-- Addresses an issue that caused users with rules that refer to a folder that no longer exist to 1. See an error when trying to manage rules and 2. See client-side rules fail to run.
-- Addresses an issue that caused users with cached delegate mailboxes to encounter frequent hangs at unpredictable intervals.
-- Addresses an issue that caused All Day Meetings to appear to span one more day than intended in some views due to the end time of the meeting being set to midnight of the following day.
-- Fixed a hang when creating new appointments or meetings that reference Japanese eras.
-
-### Office Suite: Non-security updates
-
-- Fixed issue where Add-ins, deployed using [O365 Office centralized deployment](https://docs.microsoft.com/en-us/office/dev/add-ins/publish/centralized-deployment), were freezing and unusable.
-
-
-## Version 1803: February 12
-*Version 1803 (Build 9126.2356)*
-
-*This is the Semi-Annual Channel release that's been available since July 2018. It will continue to be supported and receive security updates until September 2019. But, a new Semi-Annual Channel release is now available — Version 1808 (Build 10730.20280) — which contains new features, security updates, and non-security updates.*
-
-### Access: Non-Security updates 
-
-- This update adds support for new Japanese eras to Access.
-
-### Excel: Non-Security updates 
-
-- This update adds support for new Japanese eras to Excel.
-
-### Outlook: Non-Security updates
-
-- Fixed a hang when creating new appointments or meetings that reference Japanese eras.
-
-### Project: Non-Security updates
-- This update adds support for new Japanese eras to Project
-
-### Word: Non-Security updates
-
-- This update adds support for new Japanese eras to Word.
-
-### Visio: Non-Security updates
-
-- This update adds support for new Japanese eras to Visio.
-
-### Office Suite: Non-security updates
-
-- Fixed issue where Add-ins, deployed using [O365 Office centralized deployment](https://docs.microsoft.com/en-us/office/dev/add-ins/publish/centralized-deployment), were freezing and unusable.
-
-## Version 1708: February 12
-*Version 1708 (Build 8431.2372)*
-
-*This is the Semi-Annual Channel release that's been available since January 2018. It will continue to be supported and receive security updates until March 2019. But, a new Semi-Annual Channel release is now available — Version 1808 (Build 10730.20280) — which contains new features, security updates, and non-security updates.*
-
-### Office Suite: Non-security updates
-
-- Fixed issue where Add-ins, deployed using [O365 Office centralized deployment](https://docs.microsoft.com/en-us/office/dev/add-ins/publish/centralized-deployment), were freezing and unusable.
-
 
 ## Version 1808: January 8
 *Version 1808 (Build 10730.20264)*
@@ -78,6 +30,7 @@ These release notes provide information about new features, security updates, an
 ### Access: Feature Updates
 
  - **Visualize data with new charts:** Choose from 11 charts and add one to your forms and reports to better visualize the data and make informed decisions. [Learn more](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+
 
 ### Excel: Feature updates
  - **Collaborative editing:** Work with others at the same time in your workbook. [Learn more](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
@@ -208,11 +161,8 @@ These release notes provide information about new features, security updates, an
 - **Keep your diagram and source in sync:** When you edit a Data Visualizer diagram in Visio, you have the option to update the linked Excel source data with the latest diagram content.
 - **Data Visualizer audit template:** Import content from Excel and create audit diagrams for financial transactions, inventory management, and more.
 - **Starter diagrams:** The Organization Chart, Brainstorming, and SDL templates have new starter diagrams to get you up and running quickly.
-- **Build a Word document out of Visio shapes** Automatically add diagram content, including shapes and metadata, to a Word document. Then customize the document to create process guidelines and operation manuals. [Learn more](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Build a Word document out of Visio shapes** Automatically add diagram content, including shapes and metadata, to a Word document. Then customize the document to create process guidelines and operation manuals. [Learn more](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-### Office Suite: Security update
-
-- **Flash, Silverlight and Shockwave controls blocked from activating in Office for security reasons:** For security reasons new builds of Microsoft Office for Office 365 on Windows block activation of Flash, Silverlight, and Shockwave controls. Learn more [here](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) and [here](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### Office Suite: Non-Security updates
 - Fixed an issue that caused update install to take a long time in certain scenarios.

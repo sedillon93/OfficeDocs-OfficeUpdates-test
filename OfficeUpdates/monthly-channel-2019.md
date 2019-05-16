@@ -3,7 +3,7 @@ title: "Release notes for Monthly Channel releases in 2019"
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/28/2019
+ms.date: 01/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -23,49 +23,6 @@ These release notes provide information about new features, security updates, an
 
  > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md). 
-
-## Version 1902: March 4
-*Version 1902 (Build 11328.20146)* 
-
-### Access: Feature updates
-
-- **Keep tabs on your database objects:** Clearly see the active tab, easily drag tabs to rearrange them, and close database objects with just one click.
-- **Zoom with more room:** Make the Zoom box bigger, change the font, and Zoom remembers it all. [Learn more](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
-
-### Excel: Feature updates
-
-- **Get their attention with \@mentions:** Use @mentions in comments to let co-workers know when you need their input. [Learn more](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Discover more about your data:** The new Ideas button looks for patterns in your data, and uses them to create intelligent, personalized suggestions. [Learn more](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Save your changes as they happen:** Upload your file to OneDrive to make sure all your updates are saved automatically.
-- **Ability to insert SVG's with filters applied:** Office users now have the ability to insert SVG's that have filters applied to them. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-
-### Outlook: Feature updates
-
-- **Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to end 5-10 minutes early by default. [Learn more](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
-- **Use Read Aloud to listen to your email:** Outlook can read your email aloud, highlighting text as it's read. To turn on Read Aloud, go to the Ease of Access settings. [Learn more](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-
-
-### PowerPoint: Feature updates
-
-- **Inserting an online video is easier than ever:** Want to put a video from Vimeo or YouTube on your slide? The video page link is all you need. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
-- **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-- **Save your changes as they happen:** Upload your file to OneDrive to make sure all your updates are saved automatically.
-- **Hyperlinks in living color:** Hyperlinks aren't just blue anymore. Apply any font color you like. [Learn more](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
-CHANGE 24843
-
-### Word: Feature updates
-
-- **Save your changes as they happen:** Upload your file to OneDrive to make sure all your updates are saved automatically.
-- **Find out why AutoSave isn't on!** Clicking on the AutoSave toggle when it's off will now either display a helpful callout with reasons why AutoSave might be off. In the case where the only reason preventing AutoSave is the fact that the document is not on OneDrive or SharePoint, we will offer to move the document conveniently with one button click!
- 
-### Office Suite: Feature updates
-
-- **Installation of Microsoft Teams:**  Microsoft Teams is installed by default for new installations of Office 365 ProPlus. [Learn More](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
-
-## Version 1901: February 12
-*Version 1901 (Build 11231.20174)* 
-
-Security updates listed [here](office365-proplus-security-updates.md)
 
 ## Version 1901: January 31
 *Version 1901 (Build 11231.20130)* 
