@@ -21,6 +21,7 @@ These release notes provide information about security fixes that are included i
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 ## May 14, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
+Semi-Annual Channel: Version 1808 (Build 10730.20344)  
 Semi-Annual Channel: Version 1803 (Build 9126.2356)  
 
 ### Excel
@@ -33,14 +34,14 @@ Semi-Annual Channel: Version 1803 (Build 9126.2356)
 
 ### Office Suite
 
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
 -   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
 -   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
 -   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
 -   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
 -   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
 -   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
--   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
--   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
 
 ## May 1, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
