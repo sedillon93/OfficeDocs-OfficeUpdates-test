@@ -22,6 +22,18 @@ These release notes provide information about security fixes that are included i
 
 ## March 12, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
+
+### Word
+
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+
+### Office Suite
+
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+
+## March 12, 2019
+Monthly Channel: Version 1904 (Build 11601.20204)  
 Semi-Annual Channel: Version 1808 (Build 10730.20344)  
 Semi-Annual Channel: Version 1803 (Build 9126.2387)  
 
