@@ -21,9 +21,10 @@ These release notes provide information about security fixes that are included i
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 
 
-[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
-## May 14, 2019
+
+[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
+## May 13, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
 
 ### Word
