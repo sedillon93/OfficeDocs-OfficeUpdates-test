@@ -34,6 +34,21 @@ Semi-Annual Channel: Version 1803 (Build 9126.2356)
 -   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
 -   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
 -   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
+## May 14, 2019
+Semi-Annual Channel: Version 1803 (Build 9126.2382)  
+
+### Excel
+
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
+
+### Office Suite
+
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
 
 ## February 12, 2019
 Monthly Channel: Version 1901 (Build 11231.20174)  
