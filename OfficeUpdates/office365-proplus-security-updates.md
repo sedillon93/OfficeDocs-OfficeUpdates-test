@@ -33,6 +33,20 @@ Semi-Annual Channel: Version 1803 (Build 9126.2351)
 ### Office Suite
 
 -   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
+## June 09, 2020
+Semi-Annual Channel: Version 1803 (Build 9126.2351)  
+
+### Outlook
+
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0559)
+
+### Word
+
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585)
+
+### Office Suite
+
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
 
 ## May 14, 2019
 Semi-Annual Channel: Version 1803 (Build 9126.2351)  
