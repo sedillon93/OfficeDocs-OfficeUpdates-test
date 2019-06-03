@@ -23,8 +23,10 @@ These release notes provide information about security fixes that are included i
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 
 
+
 ## August 13, 2019
 Semi-Annual Channel: Version 1808 (Build 10730.20344)  
+Semi-Annual Channel: Version 1803 (Build 9126.2387)  
 
 ### Word
 
