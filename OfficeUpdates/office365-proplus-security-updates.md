@@ -21,6 +21,7 @@ These release notes provide information about security fixes that are included i
 
 [//]: # (DO NOT REMOVE)
 ## July 09, 2019
+Monthly Channel: Version 1904 (Build 11601.20204)  
 Semi-Annual Channel: Version 1808 (Build 10730.20344)  
 Semi-Annual Channel: Version 1803 (Build 9126.2387)  
 
