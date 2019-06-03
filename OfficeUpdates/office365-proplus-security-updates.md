@@ -20,6 +20,7 @@ These release notes provide information about security fixes that are included i
 > - The following also provides information about security updates for Visio Pro for Office 365 and Project Online Desktop Client.
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 ## May 14, 2019
+Semi-Annual Channel: Version 1808 (Build 10730.20344)  
 Semi-Annual Channel: Version 1803 (Build 9126.2387)  
 
 ### Word
