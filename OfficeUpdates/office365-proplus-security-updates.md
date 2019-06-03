@@ -34,6 +34,21 @@ Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20264)
 ### Office Suite
 
 -   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
+## July 09, 2019
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20264)  
+
+### Outlook
+
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0559)
+
+### Word
+
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585)
+
+### Office Suite
+
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
 
 ## April 14, 2019
 Semi-Annual Channel: Version 1808 (Build 10730.20334)  
