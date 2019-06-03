@@ -30,6 +30,17 @@ Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20286)
 
 -   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
 -   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+## June 11, 2019
+Monthly Channel: Version 1904 (Build 11601.20204)  
+
+### Word
+
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+
+### Office Suite
+
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
 
 ## April 09, 2019
 Monthly Channel: Version 1903 (Build 11425.20204)  
