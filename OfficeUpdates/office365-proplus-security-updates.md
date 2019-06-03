@@ -19,7 +19,8 @@ These release notes provide information about security fixes that are included i
 > [!NOTE]
 > - The following also provides information about security updates for Visio Pro for Office 365 and Project Online Desktop Client.
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
-## June 11, 2019
+
+## May 17, 2019
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20286)  
 
 ### Word
