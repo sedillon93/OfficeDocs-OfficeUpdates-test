@@ -20,6 +20,18 @@ These release notes provide information about security fixes that are included i
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.  
 
 [//]: # (DO NOT REMOVE)
+## July 09, 2019
+Semi-Annual Channel: Version 1808 (Build 10730.20344)  
+
+### Word
+
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+
+### Office Suite
+
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+
 
 ## May 14, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
