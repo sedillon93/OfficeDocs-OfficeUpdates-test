@@ -3,7 +3,7 @@ title: "Release notes for Office 365 ProPlus Security Updates"
 ms.author: andrewmo
 author: 
 manager: andrewmo
-ms.date: 1/16/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -20,23 +20,12 @@ These release notes provide information about security fixes that are included i
 > - The following also provides information about security updates for Visio Pro for Office 365 and Project Online Desktop Client.
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 
-## April 14, 2019
-Semi-Annual Channel: Version 1808 (Build 10730.20334)  
+[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 
-### Excel
 
--   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
-
-### Office Suite
-
--   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
--   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
--   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
--   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
--   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
--   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
-
-## March 14, 2019
+## April 09, 2019
+Monthly Channel: Version 1903 (Build 11425.20204)  
+Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  
 Semi-Annual Channel: Version 1808 (Build 10730.20334)  
 Semi-Annual Channel: Version 1803 (Build 9126.2382)  
 
@@ -46,12 +35,15 @@ Semi-Annual Channel: Version 1803 (Build 9126.2382)
 
 ### Office Suite
 
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
 -   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
 -   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
 -   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
 -   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
 -   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
--   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
+
+## March 12, 2019
+There are no security updates for any channel this month.
 
 ## February 12, 2019
 Monthly Channel: Version 1901 (Build 11231.20174)  
