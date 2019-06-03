@@ -23,6 +23,18 @@ These release notes provide information about security fixes that are included i
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 
 
+## August 13, 2019
+Semi-Annual Channel: Version 1808 (Build 10730.20344)  
+
+### Word
+
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+
+### Office Suite
+
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+
 ## July 09, 2019
 Semi-Annual Channel: Version 1808 (Build 10730.20344)  
 
