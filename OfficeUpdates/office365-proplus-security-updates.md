@@ -20,49 +20,6 @@ These release notes provide information about security fixes that are included i
 > - The following also provides information about security updates for Visio Pro for Office 365 and Project Online Desktop Client.
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 
-[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
-
-
-
-
-## August 13, 2019
-Monthly Channel: Version 1904 (Build 11601.20204)  
-Semi-Annual Channel: Version 1808 (Build 10730.20344)  
-Semi-Annual Channel: Version 1803 (Build 9126.2387)  
-
-### Word
-
--   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
-
-### Office Suite
-
--   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
--   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
-
-## July 09, 2019
-Semi-Annual Channel: Version 1808 (Build 10730.20344)  
-
-### Word
-
--   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
-
-### Office Suite
-
--   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
--   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
-
-## June 11, 2019
-Semi-Annual Channel: Version 1808 (Build 10730.20344)  
-
-### Word
-
--   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
-
-### Office Suite
-
--   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
--   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
-
 ## April 09, 2019
 Monthly Channel: Version 1903 (Build 11425.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  
