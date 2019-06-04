@@ -21,6 +21,17 @@ These release notes provide information about security fixes that are included i
 
 [//]: # (DO NOT REMOVE)
 
+## June 11, 2019
+Semi-Annual Channel: Version 1808 (Build 10730.20344)  
+
+### Word
+
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+
+### Office Suite
+
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
 ## April 09, 2019
 Monthly Channel: Version 1903 (Build 11425.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  
