@@ -21,6 +21,10 @@ These release notes provide information about security fixes that are included i
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1904: June 04
+*Version 1904 (Build 11601.20230)*
+* Various bugs and performances fixes.
+
 ## April 09, 2019
 Monthly Channel: Version 1903 (Build 11425.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  
