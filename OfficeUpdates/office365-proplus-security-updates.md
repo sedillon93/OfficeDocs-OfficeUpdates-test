@@ -23,6 +23,7 @@ These release notes provide information about security fixes that are included i
 
 ## June 11, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
+Semi-Annual Channel: Version 1808 (Build 10730.20344)  
 
 ### Word
 
@@ -32,6 +33,7 @@ Monthly Channel: Version 1904 (Build 11601.20204)
 
 -   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
 -   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+
 ## May 14, 2019
 Monthly Channel: Version 1904 (Build 11601.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20286)  
