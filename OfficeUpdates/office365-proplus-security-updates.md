@@ -24,6 +24,7 @@ These release notes provide information about security fixes that are included i
 ## August 13, 2019
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20286)  
 Semi-Annual Channel: Version 1808 (Build 10730.20344)  
+Semi-Annual Channel: Version 1803 (Build 9126.2387)  
 
 ### Word
 
