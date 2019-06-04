@@ -24,39 +24,6 @@ These release notes provide information about new features, security updates, an
  > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md). 
 
-## Version 1904: June 07
-*Version 1904 (Build 11601.20204)*
-<br/>* Various bugs and performances fixes.## Version 1901: January 31
-*Version 1901 (Build 11231.20130)* 
-
-### Excel: Feature updates
-
-- **Collaborate with comments:** Keep the conversation going right in your spreadsheet with the built-in reply box. [Learn more](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-
-### Outlook: Feature updates
-
-- **They'll see what you meme:** When text or static images just won't do, use an animated GIF to make your point. [Learn more](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
- 
-### Visio: Feature updates
-
-- **Azure stencils built right in:** Design a cloud app or plan an architecture using dozens of Azure stencils. [Learn more](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
-
-### Office Suite: Feature updates
-
-- **Office 3rd Party Applications now have insert SVG support using the office.js api:** 3rd party applications also known as add-ins in Office now have the ability to insert SVG's. Users can now connect their personal collection of SVG's to Office. Developers can use this feature by using the Office.js API.
-
-
-## Version 1812: January 14
-*Version 1812 (Build 11126.20266)* 
-
-Non-security updates only, addressing performance issues.
-
-## Version 1812: January 8
-*Version 1812 (Build 11126.20196)* 
-
-### Project: Non-security updates
-- Fixed an issue where you couldn't uncheck the Critical, Late and Slack bar styles for the Gantt chart after you checked one.
-
 ## Version 1812: January 3
 *Version 1812 (Build 11126.20188)* 
 
