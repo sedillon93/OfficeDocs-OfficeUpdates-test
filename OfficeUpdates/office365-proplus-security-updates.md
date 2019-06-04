@@ -21,6 +21,9 @@ These release notes provide information about security fixes that are included i
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1808: June 04
+*Version 1808 (Build 10730.20344)*
+
 ## Version 1904: June 04
 *Version 1904 (Build 11601.20230)*
 * Various bugs and performances fixes.
