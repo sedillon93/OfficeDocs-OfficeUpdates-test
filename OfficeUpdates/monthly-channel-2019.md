@@ -24,6 +24,9 @@ These release notes provide information about new features, security updates, an
  > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md). 
 
+## Version 1803: June 03
+*Version 1803 (Build 9126.2382)*
+
 ## Version 1901: January 31
 *Version 1901 (Build 11231.20130)* 
 
